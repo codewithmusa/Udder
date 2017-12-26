@@ -20,8 +20,7 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
     override var storyboard: UIStoryboard?
-    FFFGGGGGGG
-
+    override var preferredInterfaceOrientationForPresentation: UIInterfaceOrientation
 
 }
 
