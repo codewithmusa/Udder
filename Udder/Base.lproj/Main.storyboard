@@ -33,7 +33,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="wcs-truck-banner-3x" translatesAutoresizingMaskIntoConstraints="NO" id="ghZ-cJ-zHf">
-                                <rect key="frame" x="16" y="393" width="352" height="262"/>
+                                <rect key="frame" x="16" y="395" width="352" height="262"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
